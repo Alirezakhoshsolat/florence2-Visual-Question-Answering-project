@@ -1,5 +1,3 @@
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 link of the hosted files:
 https://huggingface.co/spaces/parhamaki/data_mining_project/tree/main
 
