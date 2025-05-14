@@ -1,17 +1,4 @@
----
-title: Data Mining Project
-emoji: 👀
-colorFrom: green
-colorTo: yellow
-sdk: streamlit
-sdk_version: 1.40.1
-app_file: app.py
-pinned: false
-short_description: finetuned florence2 model on VQA V2 dataset
----
-
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 
 link of the hosted files:
 https://huggingface.co/spaces/parhamaki/data_mining_project/tree/main
