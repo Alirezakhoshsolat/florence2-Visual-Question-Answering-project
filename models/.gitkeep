@@ -1,0 +1,2 @@
+# This directory will contain the downloaded Florence-2 model
+# The model will be downloaded when running scripts/download_model.py
